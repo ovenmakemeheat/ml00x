@@ -1,0 +1,3 @@
+split,status,sampled,readable,missing,corrupt
+train,image_folder_not_available,0,0,0,0
+test,image_folder_not_available,0,0,0,0
